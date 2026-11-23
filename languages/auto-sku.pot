@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Auto SKU Generator\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Can be left blank."
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "SKU prefix"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
